@@ -1,0 +1,14 @@
+Sales Summary
+=====================
+
+Store: 201
+Sales: 501.22
+Store: 202
+Sales: 1234.22
+Store: 203
+Sales: 99.00
+Store: 204
+Sales: 88.88
+
+Total Stores: 4
+Total Sales: 1923.32
